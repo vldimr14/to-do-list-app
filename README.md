@@ -6,7 +6,7 @@ server and Spring.
 ## Screenshots 
 
 <img src='screenshots/Screenshot_1.png' width='640'>
-<img src='screenshots/Screenshot_1.png' width='640'>
-<img src='screenshots/Screenshot_1.png' width='640'>
+<img src='screenshots/Screenshot_2.png' width='640'>
+<img src='screenshots/Screenshot_3.png' width='640'>
 
 
